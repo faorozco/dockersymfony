@@ -23,4 +23,5 @@ volumes:
     driver_opts:
       type: none
       o: bind
-      device: ../volumes/project/
+      device: $PWD
+#device: ../volumes/project/
