@@ -24,4 +24,4 @@ volumes:
       type: none
       o: bind
       device: $PWD
-#device: ../volumes/project/
+#     device: ../volumes/project/
